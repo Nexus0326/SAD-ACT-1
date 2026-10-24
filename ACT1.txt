@@ -1,0 +1,4 @@
+My Introduction to CI/CD Activity 1
+Name: Dan Antonio Pedragorda
+GitHub: Nexus0326
+I am learning Git basic operations.
